@@ -8,9 +8,9 @@
 
     "sqltools.connections": [
         {
-            "database": "template_prod",
+            "database": "gabriel_prod",
             "driver": "PostgreSQL",
-            "name": "template_prod",
+            "name": "gabriel_prod",
             "password": "odoo",
             "port": 5432,
             "previewLimit": 50,

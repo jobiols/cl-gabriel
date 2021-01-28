@@ -1,2 +1,1 @@
-# cl-template
-Project template
+# cl-gabriel Project
