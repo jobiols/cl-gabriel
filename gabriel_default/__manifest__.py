@@ -46,7 +46,8 @@
     'git-repos': [
         'git@github.com:jobiols/cl-gabriel.git',
         'git@gitlab.com:Quilsoft/salud.git -b master',
-
+        'git@github.com:jobiols/odoo-private-addons',
+        
         # 'git@github.com:jobiols/odoo-jeo-ce.git',
         # 'git@github.com:jobiols/odoo-private-addons.git',
 
