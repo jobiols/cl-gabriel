@@ -47,7 +47,7 @@
         'git@github.com:jobiols/cl-gabriel.git',
         'git@gitlab.com:Quilsoft/salud.git -b master',
         'git@github.com:jobiols/odoo-private-addons',
-        
+
         # 'git@github.com:jobiols/odoo-jeo-ce.git',
         # 'git@github.com:jobiols/odoo-private-addons.git',
 
@@ -171,7 +171,7 @@
 
     # list of images to use in the form 'name image-url'
     'docker-images': [
-        'odoo jobiols/odoo-jeo:13.0',
+        'odoo jobiols/odoo-jeo:11.0',
         'postgres postgres:10.1-alpine',
         'nginx nginx'
     ]
