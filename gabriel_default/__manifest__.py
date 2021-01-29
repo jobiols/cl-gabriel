@@ -20,7 +20,7 @@
 
 {
     'name': 'gabriel',
-    'version': '13.0.1.0.0',
+    'version': '11.0.1.0.0',
     'category': 'Tools',
     'summary': "Sanatorio San Gabriel",
     'author': "jeo Software",
